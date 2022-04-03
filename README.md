@@ -1,1 +1,1 @@
-# JS-Function-Practice
+Further JavaScript practice using The Odin Project course.  I have spent the past month using the CSX course on Codesmith for learning all the foundations of JavaScript up to Functions and Execution context. I am now going through these things again using The Odin Project course to apply what i've learned by coding within the HTML environment. 
